@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v1.0<br/>
-  <a href="#" target="_blank">SURUCHI KUMARI</a>
+  Portfolio Website - v2.0<br/>
+  <a  target="_blank">SURUCHI KUMARI</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/sbv1.png" />
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-<!-- My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/> -->
+My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -40,6 +40,7 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
+- Vercel
 
 ## Features
 
@@ -72,4 +73,4 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<!-- <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a> -->
+<a href="https://www.buymeacoffee.com/Suruchikum" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
