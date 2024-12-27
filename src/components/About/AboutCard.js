@@ -13,18 +13,18 @@ function AboutCard() {
             <br />
             I am currently working on a blood donation website.
             <br />
-            i am pursuing B-Tech 3rd Year Student
+            I am currently B-Tech 3rd Year Student
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Badminton
+              <ImPointRight /> Playing Badminton/kabaddi
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Reading Novel
-            </li>
+            {/* <li className="about-activity">
+              <ImPointRight /> Reading Novels
+            </li> */}
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
